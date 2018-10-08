@@ -13,7 +13,7 @@ cd /ebm-nlp/stanford-ner/picodata/classifiers/
 
 wget --progress=bar:force:noscroll -O patients.crf.ser.gz -L https://arizona.box.com/shared/static/r722kzvmmp4230dt6k2h5utzgon6ngzb.gz -q --show-progress
 
-wget --progress=bar:force:noscroll -O interventions.crf.ser.gz -L  -q --show-progress
+# wget --progress=bar:force:noscroll -O interventions.crf.ser.gz -L  -q --show-progress
 
 wget --progress=bar:force:noscroll -O outcomes.crf.ser.gz -L https://arizona.box.com/shared/static/mssu94b9e6i66e6lsimw4ovjsim933l3.gz -q --show-progress
 
@@ -37,7 +37,7 @@ java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier 
 echo ""
 echo "For interventions"
 
-java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier picodata/classifiers/interventions.crf.ser.gz -outputFormat tsv -testFile picodata/interventions/test.txt > test_interventions.tsv
+# java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier picodata/classifiers/interventions.crf.ser.gz -outputFormat tsv -testFile picodata/interventions/test.txt > test_interventions.tsv
 
 echo ""
 echo "For outcomes"

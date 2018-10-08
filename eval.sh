@@ -11,11 +11,11 @@ wget --progress=bar:force:noscroll -O events.out.tfevents.1538279398.Sabins-MacB
 
 cd /ebm-nlp/stanford-ner/picodata/classifiers/
 
-wget --progress=bar:force:noscroll -O patients.crf.ser.gz -L https://arizona.box.com/shared/static/bzygcxw3d6uy9uch5bnt75tpk6rfu5iv.gz -q --show-progress
+wget --progress=bar:force:noscroll -O patients.crf.ser.gz -L https://arizona.box.com/shared/static/r722kzvmmp4230dt6k2h5utzgon6ngzb.gz -q --show-progress
 
 wget --progress=bar:force:noscroll -O interventions.crf.ser.gz -L https://arizona.box.com/shared/static/06504g5iw6bffeeuo7jv6bnuev6761gu.gz -q --show-progress
 
-wget --progress=bar:force:noscroll -O outcomes.crf.ser.gz -L https://arizona.box.com/shared/static/cbzygcti9i8wzvc7a1jsbeyg99hqstop.gz -q --show-progress
+wget --progress=bar:force:noscroll -O outcomes.crf.ser.gz -L https://arizona.box.com/shared/static/mssu94b9e6i66e6lsimw4ovjsim933l3.gz -q --show-progress
 
 cd /ebm-nlp/acl_scripts/lstm-crf/
 

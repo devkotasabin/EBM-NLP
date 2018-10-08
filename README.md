@@ -23,7 +23,10 @@ Python 3.5
 
 ## Steps to run docker code
 
+```
 git clone https://github.com/devkotasabin/EBM-NLP.git
 cd EBM-NLP
-
+sudo docker build -t devkota-sabin-hw3 .
+sudo docker run --name devkotasabin devkota-sabin-hw3
+```
 

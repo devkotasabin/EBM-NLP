@@ -1,0 +1,43 @@
+#Use both the train data and dev data to train the CRF classifier
+trainFile = picodata/patients/alltrain.txt
+serializeTo = picodata/classifiers/patients.crf.ser.gz
+
+type=crf
+wordFunction = edu.stanford.nlp.process.AmericanizeFunction
+
+# the word is in column 0, POS tag is in column 1, and class is in column 2
+map = word=0,tag=1,answer=2
+
+# create a first order CRF
+maxLeft=1
+
+#use distributional similarity
+distSimLexicon = picodata/egw4-reut.512.clusters
+numberEquivalenceDistSim = true
+unknownWordDistSimClass = 0
+useDistSim = true
+useClassFeature=true
+useWord=true
+useLongSequences=true
+useNGrams=true
+noMidNGrams=true
+
+usePrev=true
+useNext=true
+useLongSequences=true
+useDisjunctive=true
+disjunctionWidth=5
+useSequences=true
+usePrevSequences=true
+
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+
+useQN = true
+QNsize = 25
+
+saveFeatureIndexToDisk = true
+useObservedSequencesOnly=true
+featureDiffThresh=0.05

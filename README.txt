@@ -1,3 +1,5 @@
+This is the README from the original repo https://github.com/bepnye/EBM-NLP
+
 IMPORTANT NOTE:
 
 The test set for the hierarchical labels is the expert labels on the same (aggregated, crowd-sourced) spans

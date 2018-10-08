@@ -21,4 +21,9 @@ OS: MacOS High Sierra v 10.13.6
 OS: Ubuntu 16.04
 Python 3.5
 
+## Steps to run docker code
+
+git clone https://github.com/devkotasabin/EBM-NLP.git
+cd EBM-NLP
+
 

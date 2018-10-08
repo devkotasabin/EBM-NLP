@@ -1,6 +1,6 @@
 # EBM-NLP
 
-This is a part of project for CSC 585 - Algorithms in NLP - at University of Arizona.
+This is the part of the class project for CSC 585 - Algorithms in NLP - at University of Arizona.
 
 Implementation of Baseline model for PICO 2018 dataset https://github.com/bepnye/EBM-NLP/
 

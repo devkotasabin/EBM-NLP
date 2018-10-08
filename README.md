@@ -19,5 +19,6 @@ OS: MacOS High Sierra v 10.13.6
 ## Docker Environment
 
 OS: Ubuntu 16.04
+Python 3.5
 
 

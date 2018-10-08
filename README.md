@@ -8,4 +8,16 @@ There are two tasks for the two levels of annotations in the dataset. The first 
 
 The second task is token level detailed labeling of the PIO spans. This hierarchical labeling is performed using stanford Named Entity Recognizer https://nlp.stanford.edu/software/CRF-NER.html
 
+The models can be evaluated using docker. The embeddings and trained models are downloaded from box university account for evaluation.
+
+## Models Trained Using
+
+OS: MacOS High Sierra v 10.13.6
+2.9 GHz Intel Core i5
+16 GB DDR3 RAM
+
+## Docker Environment
+
+OS: Ubuntu 16.04
+
 

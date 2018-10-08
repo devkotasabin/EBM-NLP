@@ -1,0 +1,2 @@
+# Don't push these files to Docker container
+*.git*

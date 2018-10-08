@@ -1,0 +1,46 @@
+2018-09-29 20:49:55,441:INFO: Initializing tf session
+2018-09-29 20:50:01,174:INFO: Epoch 1 out of 15
+2018-09-29 21:44:03,580:INFO: f1 0.64 - r 0.58 - p 0.77
+2018-09-29 21:44:06,112:INFO: - new best score!
+2018-09-29 21:44:06,113:INFO: Epoch 2 out of 15
+2018-09-29 22:38:31,451:INFO: f1 0.68 - r 0.63 - p 0.76
+2018-09-29 22:38:33,834:INFO: - new best score!
+2018-09-29 22:38:33,834:INFO: Epoch 3 out of 15
+2018-09-30 03:28:41,099:INFO: f1 0.69 - r 0.64 - p 0.77
+2018-09-30 03:28:44,742:INFO: - new best score!
+2018-09-30 03:28:44,742:INFO: Epoch 4 out of 15
+2018-09-30 04:22:09,979:INFO: f1 0.70 - r 0.65 - p 0.77
+2018-09-30 04:22:12,313:INFO: - new best score!
+2018-09-30 04:22:12,313:INFO: Epoch 5 out of 15
+2018-09-30 05:13:18,492:INFO: f1 0.70 - r 0.65 - p 0.77
+2018-09-30 05:13:20,901:INFO: - new best score!
+2018-09-30 05:13:20,902:INFO: Epoch 6 out of 15
+2018-09-30 13:18:11,021:INFO: f1 0.71 - r 0.67 - p 0.77
+2018-09-30 13:18:13,403:INFO: - new best score!
+2018-09-30 13:18:13,403:INFO: Epoch 7 out of 15
+2018-09-30 14:09:04,681:INFO: f1 0.71 - r 0.67 - p 0.77
+2018-09-30 14:09:04,682:INFO: Epoch 8 out of 15
+2018-09-30 14:58:57,344:INFO: f1 0.72 - r 0.68 - p 0.77
+2018-09-30 14:58:59,759:INFO: - new best score!
+2018-09-30 14:58:59,759:INFO: Epoch 9 out of 15
+2018-09-30 15:48:52,611:INFO: f1 0.72 - r 0.68 - p 0.76
+2018-09-30 15:48:52,613:INFO: Epoch 10 out of 15
+2018-09-30 16:38:42,868:INFO: f1 0.72 - r 0.68 - p 0.77
+2018-09-30 16:38:42,869:INFO: Epoch 11 out of 15
+2018-09-30 17:28:41,336:INFO: f1 0.72 - r 0.69 - p 0.76
+2018-09-30 17:28:43,575:INFO: - new best score!
+2018-09-30 17:28:43,575:INFO: Epoch 12 out of 15
+2018-09-30 18:18:49,984:INFO: f1 0.72 - r 0.69 - p 0.76
+2018-09-30 18:18:52,229:INFO: - new best score!
+2018-09-30 18:18:52,229:INFO: Epoch 13 out of 15
+2018-09-30 19:13:48,343:INFO: f1 0.72 - r 0.69 - p 0.76
+2018-09-30 19:13:50,822:INFO: - new best score!
+2018-09-30 19:13:50,822:INFO: Epoch 14 out of 15
+2018-09-30 20:07:00,314:INFO: f1 0.72 - r 0.69 - p 0.76
+2018-09-30 20:07:00,316:INFO: Epoch 15 out of 15
+2018-09-30 20:59:25,767:INFO: f1 0.72 - r 0.69 - p 0.76
+2018-09-30 20:59:32,327:INFO: Initializing tf session
+2018-09-30 20:59:33,853:INFO: Reloading the latest trained model...
+2018-09-30 20:59:33,854:INFO: Restoring parameters from /Users/devkotasabin/Documents/CSC 585 Algos for NLP/TASK 1 PICO/Datasets/EBM-NLP/acl_scripts/lstm-crf/results/test/model.weights/
+2018-09-30 20:59:34,081:INFO: Testing model over test set
+2018-09-30 21:00:20,233:INFO: f1 0.72 - p 0.68 - r 0.79

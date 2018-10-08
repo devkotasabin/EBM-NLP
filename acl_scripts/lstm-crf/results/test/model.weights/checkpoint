@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/devkotasabin/Documents/CSC 585 Algos for NLP/TASK 1 PICO/Datasets/EBM-NLP/acl_scripts/lstm-crf/results/test/model.weights/"
+all_model_checkpoint_paths: "/Users/devkotasabin/Documents/CSC 585 Algos for NLP/TASK 1 PICO/Datasets/EBM-NLP/acl_scripts/lstm-crf/results/test/model.weights/"

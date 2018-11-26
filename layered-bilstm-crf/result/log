@@ -1,0 +1,82 @@
+[
+    {
+        "iteration": 2603,
+        "dev/main/loss": 31.47997184285751,
+        "dev/main/fscore": 0.05,
+        "dev/main/accuracy": 0.8012006367410924,
+        "main/loss": 31.92247807782657,
+        "epoch": 1,
+        "elapsed_time": 4949.287187257782,
+        "main/accuracy": 0.8115364817513636
+    },
+    {
+        "iteration": 5206,
+        "dev/main/loss": 32.31261412921433,
+        "dev/main/fscore": 2.58,
+        "dev/main/accuracy": 0.8209470998469456,
+        "main/loss": 42.79756634752186,
+        "epoch": 2,
+        "elapsed_time": 11703.14106172882,
+        "main/accuracy": 0.8228125603018258
+    },
+    {
+        "iteration": 7808,
+        "dev/main/loss": 4.3421876710022875,
+        "dev/main/fscore": 5.41,
+        "dev/main/accuracy": 0.916222260391325,
+        "main/loss": 18.450554978480774,
+        "epoch": 3,
+        "elapsed_time": 20495.25370969996,
+        "main/accuracy": 0.9060406409469373
+    },
+    {
+        "iteration": 10411,
+        "dev/main/loss": 0.5480430696614517,
+        "dev/main/fscore": 10.02,
+        "dev/main/accuracy": 0.9848365198563707,
+        "main/loss": 8.170158997636225,
+        "epoch": 4,
+        "elapsed_time": 30313.429935364053,
+        "main/accuracy": 0.9552620964371833
+    },
+    {
+        "iteration": 13013,
+        "dev/main/loss": 0.3745391470159834,
+        "dev/main/fscore": 14.33,
+        "dev/main/accuracy": 0.9901740419414593,
+        "main/loss": 3.4538235446211982,
+        "epoch": 5,
+        "elapsed_time": 40593.819984542206,
+        "main/accuracy": 0.9778846560652493
+    },
+    {
+        "iteration": 15616,
+        "dev/main/loss": 0.12512212956825702,
+        "dev/main/fscore": 17.08,
+        "dev/main/accuracy": 0.9960331624391011,
+        "main/loss": 1.4772872227713498,
+        "epoch": 6,
+        "elapsed_time": 51110.969100175425,
+        "main/accuracy": 0.9903113932503013
+    },
+    {
+        "iteration": 18219,
+        "dev/main/loss": 0.008957804928426273,
+        "dev/main/fscore": 22.45,
+        "dev/main/accuracy": 0.9997156398104264,
+        "main/loss": 0.20726977400679378,
+        "epoch": 7,
+        "elapsed_time": 61746.318661617115,
+        "main/accuracy": 0.9944537873211617
+    },
+    {
+        "iteration": 20821,
+        "dev/main/loss": 0.012227403462524168,
+        "dev/main/fscore": 23.59,
+        "dev/main/accuracy": 0.9996933599915816,
+        "main/loss": 0.089966113482923,
+        "epoch": 8,
+        "elapsed_time": 72306.77438615635,
+        "main/accuracy": 0.9977562615855846
+    }
+]

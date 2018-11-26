@@ -6,9 +6,19 @@ This is a multi-level named entity recognition problem. The dataset is described
 
 There are two tasks for the two levels of annotations in the dataset. The first task is identification of P (patients), I (interventions), and O(outcomes) span. The baseline model implementation for this task uses a bidirectional LSTM with CRF tagger on top https://github.com/bepnye/EBM-NLP/ . 
 
-The second task is token level detailed labeling of the PIO spans. This hierarchical labeling is performed using stanford Named Entity Recognizer https://nlp.stanford.edu/software/CRF-NER.html
+The second task is token level detailed labeling of the PIO spans. This baseline hierarchical labeling is performed using stanford Named Entity Recognizer https://nlp.stanford.edu/software/CRF-NER.html
 
 The models can be evaluated using docker. The embeddings and trained models are downloaded from box university account for evaluation.
+
+## Nested Named Entity Recognition
+Our approach is based on the paper "A neural layered model for nested named entity recognition" https://aclweb.org/anthology/N18-1131
+
+The paper detects entities using a flat NER layer described in the paper from Lample etal. "Neural architectures for named entity recognition" https://arxiv.org/pdf/1603.01360.pdf starting from inner entities. On detecting the inner entities, they merge/average the contextual embedding for tokens in the inner entities, and feed them to another flat NER layer for outer entity detection. They stack the layers on top of each other until no new entities are detected.
+
+## Our Approach
+Our approach is a modification of the previous approach from "A neural layered model for nested named entity recognition" https://aclweb.org/anthology/N18-1131 where we start the entity detection from outer entitities and move to inner entities.
+This is motivated by the fact that outer spans are more accurately predicted by baseline models and there is a higher agreement between annotators when labelling outer spans (i.e. pio spans) compared to detailed spans.
+
 
 ## Models Trained Using
 

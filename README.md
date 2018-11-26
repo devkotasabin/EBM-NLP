@@ -12,9 +12,12 @@ The models can be evaluated using docker. The embeddings and trained models are 
 
 ## Nested Named Entity Recognition
 Our approach is based on the paper "A neural layered model for nested named entity recognition" https://aclweb.org/anthology/N18-1131
+
 The paper detects entities using a flat NER layer described in the paper from Lample etal. "Neural architectures for named entity recognition" https://arxiv.org/pdf/1603.01360.pdf starting from inner entities. On detecting the inner entities, they merge/average the contextual embedding for tokens in the inner entities, and feed them to another flat NER layer for outer entity detection. They stack the layers on top of each other until no new entities are detected.
 
 ## Our Approach
+Our approach is a modification of the previous approach from "A neural layered model for nested named entity recognition" https://aclweb.org/anthology/N18-1131 where we start the entity detection from outer entitities and move to inner entities.
+This is motivated by the fact that outer spans are more accurately predicted by baseline models and there is a higher agreement between annotators when labelling outer spans (i.e. pio spans) compared to detailed spans.
 
 
 ## Models Trained Using

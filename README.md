@@ -6,9 +6,11 @@ This is a multi-level named entity recognition problem. The dataset is described
 
 There are two tasks for the two levels of annotations in the dataset. The first task is identification of P (patients), I (interventions), and O(outcomes) span. The baseline model implementation for this task uses a bidirectional LSTM with CRF tagger on top https://github.com/bepnye/EBM-NLP/ . 
 
-The second task is token level detailed labeling of the PIO spans. This hierarchical labeling is performed using stanford Named Entity Recognizer https://nlp.stanford.edu/software/CRF-NER.html
+The second task is token level detailed labeling of the PIO spans. This baseline hierarchical labeling is performed using stanford Named Entity Recognizer https://nlp.stanford.edu/software/CRF-NER.html
 
 The models can be evaluated using docker. The embeddings and trained models are downloaded from box university account for evaluation.
+
+
 
 ## Models Trained Using
 

@@ -1,0 +1,1053 @@
+The dy.parameter(...) call is now DEPRECATED.
+        There is no longer need to explicitly add parameters to the computation graph.
+        Any used parameter will be added automatically.
+Training status: Iter 0, Sample 5000
+Level 1 avg loss 0.995069
+Level 2 avg loss 0.834321
+Training status: Iter 0, Sample 10000
+Level 1 avg loss 0.795697
+Level 2 avg loss 0.638473
+Test status Level 1: Iter 0
+Accuracy Level 1: 0.786459
+Accuracy Level 2: 0.806235
+Training status: Iter 0, Sample 15000
+Level 1 avg loss 0.728208
+Level 2 avg loss 0.547628
+Training status: Iter 0, Sample 20000
+Level 1 avg loss 0.688177
+Level 2 avg loss 0.484917
+Test status Level 1: Iter 0
+Accuracy Level 1: 0.821659
+Accuracy Level 2: 0.835485
+Training status: Iter 0, Sample 25000
+Level 1 avg loss 0.687402
+Level 2 avg loss 0.476904
+Training status: Iter 1, Sample 5000
+Level 1 avg loss 0.631250
+Level 2 avg loss 0.449855
+Training status: Iter 1, Sample 10000
+Level 1 avg loss 0.613496
+Level 2 avg loss 0.423700
+Test status Level 1: Iter 1
+Accuracy Level 1: 0.842975
+Accuracy Level 2: 0.855468
+Training status: Iter 1, Sample 15000
+Level 1 avg loss 0.587967
+Level 2 avg loss 0.409444
+Training status: Iter 1, Sample 20000
+Level 1 avg loss 0.585000
+Level 2 avg loss 0.386807
+Test status Level 1: Iter 1
+Accuracy Level 1: 0.853188
+Accuracy Level 2: 0.866511
+Training status: Iter 1, Sample 25000
+Level 1 avg loss 0.587810
+Level 2 avg loss 0.381155
+Training status: Iter 2, Sample 5000
+Level 1 avg loss 0.515262
+Level 2 avg loss 0.349121
+Training status: Iter 2, Sample 10000
+Level 1 avg loss 0.526317
+Level 2 avg loss 0.343329
+Test status Level 1: Iter 2
+Accuracy Level 1: 0.811060
+Accuracy Level 2: 0.830570
+Training status: Iter 2, Sample 15000
+Level 1 avg loss 0.515207
+Level 2 avg loss 0.343614
+Training status: Iter 2, Sample 20000
+Level 1 avg loss 0.538920
+Level 2 avg loss 0.332183
+Test status Level 1: Iter 2
+Accuracy Level 1: 0.827314
+Accuracy Level 2: 0.835248
+Training status: Iter 2, Sample 25000
+Level 1 avg loss 0.550955
+Level 2 avg loss 0.338281
+Training status: Iter 3, Sample 5000
+Level 1 avg loss 0.483686
+Level 2 avg loss 0.310016
+Training status: Iter 3, Sample 10000
+Level 1 avg loss 0.465697
+Level 2 avg loss 0.297010
+Test status Level 1: Iter 3
+Accuracy Level 1: 0.835307
+Accuracy Level 2: 0.858961
+Training status: Iter 3, Sample 15000
+Level 1 avg loss 0.473588
+Level 2 avg loss 0.285041
+Training status: Iter 3, Sample 20000
+Level 1 avg loss 0.474364
+Level 2 avg loss 0.296491
+Test status Level 1: Iter 3
+Accuracy Level 1: 0.845639
+Accuracy Level 2: 0.865711
+Training status: Iter 3, Sample 25000
+Level 1 avg loss 0.460705
+Level 2 avg loss 0.292542
+Training status: Iter 4, Sample 5000
+Level 1 avg loss 0.417650
+Level 2 avg loss 0.267538
+Training status: Iter 4, Sample 10000
+Level 1 avg loss 0.417947
+Level 2 avg loss 0.269900
+Test status Level 1: Iter 4
+Accuracy Level 1: 0.825626
+Accuracy Level 2: 0.851560
+Training status: Iter 4, Sample 15000
+Level 1 avg loss 0.425989
+Level 2 avg loss 0.261154
+Training status: Iter 4, Sample 20000
+Level 1 avg loss 0.431787
+Level 2 avg loss 0.266878
+Test status Level 1: Iter 4
+Accuracy Level 1: 0.847238
+Accuracy Level 2: 0.857570
+Training status: Iter 4, Sample 25000
+Level 1 avg loss 0.428842
+Level 2 avg loss 0.258774
+Training status: Iter 5, Sample 5000
+Level 1 avg loss 0.380865
+Level 2 avg loss 0.234729
+Training status: Iter 5, Sample 10000
+Level 1 avg loss 0.372535
+Level 2 avg loss 0.222160
+Test status Level 1: Iter 5
+Accuracy Level 1: 0.831103
+Accuracy Level 2: 0.856800
+Training status: Iter 5, Sample 15000
+Level 1 avg loss 0.388902
+Level 2 avg loss 0.234925
+Training status: Iter 5, Sample 20000
+Level 1 avg loss 0.396328
+Level 2 avg loss 0.237404
+Test status Level 1: Iter 5
+Accuracy Level 1: 0.851146
+Accuracy Level 2: 0.862929
+Training status: Iter 5, Sample 25000
+Level 1 avg loss 0.385845
+Level 2 avg loss 0.241610
+Training status: Iter 6, Sample 5000
+Level 1 avg loss 0.326222
+Level 2 avg loss 0.211963
+Training status: Iter 6, Sample 10000
+Level 1 avg loss 0.344662
+Level 2 avg loss 0.208320
+Test status Level 1: Iter 6
+Accuracy Level 1: 0.835485
+Accuracy Level 2: 0.856475
+Training status: Iter 6, Sample 15000
+Level 1 avg loss 0.353311
+Level 2 avg loss 0.211498
+Training status: Iter 6, Sample 20000
+Level 1 avg loss 0.346490
+Level 2 avg loss 0.208010
+Test status Level 1: Iter 6
+Accuracy Level 1: 0.839008
+Accuracy Level 2: 0.861507
+Training status: Iter 6, Sample 25000
+Level 1 avg loss 0.360746
+Level 2 avg loss 0.216337
+Training status: Iter 7, Sample 5000
+Level 1 avg loss 0.301696
+Level 2 avg loss 0.182954
+Training status: Iter 7, Sample 10000
+Level 1 avg loss 0.299787
+Level 2 avg loss 0.187789
+Test status Level 1: Iter 7
+Accuracy Level 1: 0.802445
+Accuracy Level 2: 0.840014
+Training status: Iter 7, Sample 15000
+Level 1 avg loss 0.305956
+Level 2 avg loss 0.193890
+Training status: Iter 7, Sample 20000
+Level 1 avg loss 0.326979
+Level 2 avg loss 0.195517
+Test status Level 1: Iter 7
+Accuracy Level 1: 0.820504
+Accuracy Level 2: 0.855083
+Training status: Iter 7, Sample 25000
+Level 1 avg loss 0.325027
+Level 2 avg loss 0.188327
+Training status: Iter 8, Sample 5000
+Level 1 avg loss 0.273872
+Level 2 avg loss 0.164120
+Training status: Iter 8, Sample 10000
+Level 1 avg loss 0.267154
+Level 2 avg loss 0.174999
+Test status Level 1: Iter 8
+Accuracy Level 1: 0.823317
+Accuracy Level 2: 0.847889
+Training status: Iter 8, Sample 15000
+Level 1 avg loss 0.290226
+Level 2 avg loss 0.174808
+Training status: Iter 8, Sample 20000
+Level 1 avg loss 0.278008
+Level 2 avg loss 0.166713
+Test status Level 1: Iter 8
+Accuracy Level 1: 0.833087
+Accuracy Level 2: 0.849517
+Training status: Iter 8, Sample 25000
+Level 1 avg loss 0.295139
+Level 2 avg loss 0.177818
+Training status: Iter 9, Sample 5000
+Level 1 avg loss 0.258962
+Level 2 avg loss 0.151530
+Training status: Iter 9, Sample 10000
+Level 1 avg loss 0.243737
+Level 2 avg loss 0.151742
+Test status Level 1: Iter 9
+Accuracy Level 1: 0.819024
+Accuracy Level 2: 0.836846
+Training status: Iter 9, Sample 15000
+Level 1 avg loss 0.251190
+Level 2 avg loss 0.150017
+Training status: Iter 9, Sample 20000
+Level 1 avg loss 0.247497
+Level 2 avg loss 0.153491
+Test status Level 1: Iter 9
+Accuracy Level 1: 0.814139
+Accuracy Level 2: 0.843685
+Training status: Iter 9, Sample 25000
+Level 1 avg loss 0.264967
+Level 2 avg loss 0.156536
+Training status: Iter 10, Sample 5000
+Level 1 avg loss 0.228234
+Level 2 avg loss 0.141060
+Training status: Iter 10, Sample 10000
+Level 1 avg loss 0.237550
+Level 2 avg loss 0.137435
+Test status Level 1: Iter 10
+Accuracy Level 1: 0.820771
+Accuracy Level 2: 0.853810
+Training status: Iter 10, Sample 15000
+Level 1 avg loss 0.227635
+Level 2 avg loss 0.141204
+Training status: Iter 10, Sample 20000
+Level 1 avg loss 0.232792
+Level 2 avg loss 0.140829
+Test status Level 1: Iter 10
+Accuracy Level 1: 0.829475
+Accuracy Level 2: 0.848185
+Training status: Iter 10, Sample 25000
+Level 1 avg loss 0.247211
+Level 2 avg loss 0.147377
+Training status: Iter 11, Sample 5000
+Level 1 avg loss 0.202624
+Level 2 avg loss 0.119635
+Training status: Iter 11, Sample 10000
+Level 1 avg loss 0.208583
+Level 2 avg loss 0.131998
+Test status Level 1: Iter 11
+Accuracy Level 1: 0.818432
+Accuracy Level 2: 0.850850
+Training status: Iter 11, Sample 15000
+Level 1 avg loss 0.213063
+Level 2 avg loss 0.127066
+Training status: Iter 11, Sample 20000
+Level 1 avg loss 0.213125
+Level 2 avg loss 0.133005
+Test status Level 1: Iter 11
+Accuracy Level 1: 0.820830
+Accuracy Level 2: 0.853662
+Training status: Iter 11, Sample 25000
+Level 1 avg loss 0.213900
+Level 2 avg loss 0.126700
+Training status: Iter 12, Sample 5000
+Level 1 avg loss 0.181915
+Level 2 avg loss 0.110426
+Training status: Iter 12, Sample 10000
+Level 1 avg loss 0.190870
+Level 2 avg loss 0.111995
+Test status Level 1: Iter 12
+Accuracy Level 1: 0.820238
+Accuracy Level 2: 0.851175
+Training status: Iter 12, Sample 15000
+Level 1 avg loss 0.197157
+Level 2 avg loss 0.113074
+Training status: Iter 12, Sample 20000
+Level 1 avg loss 0.199174
+Level 2 avg loss 0.123624
+Test status Level 1: Iter 12
+Accuracy Level 1: 0.835929
+Accuracy Level 2: 0.853040
+Training status: Iter 12, Sample 25000
+Level 1 avg loss 0.207653
+Level 2 avg loss 0.120280
+Training status: Iter 13, Sample 5000
+Level 1 avg loss 0.168360
+Level 2 avg loss 0.108413
+Training status: Iter 13, Sample 10000
+Level 1 avg loss 0.170224
+Level 2 avg loss 0.097629
+Test status Level 1: Iter 13
+Accuracy Level 1: 0.824087
+Accuracy Level 2: 0.849399
+Training status: Iter 13, Sample 15000
+Level 1 avg loss 0.185974
+Level 2 avg loss 0.107158
+Training status: Iter 13, Sample 20000
+Level 1 avg loss 0.175683
+Level 2 avg loss 0.109873
+Test status Level 1: Iter 13
+Accuracy Level 1: 0.817633
+Accuracy Level 2: 0.851323
+Training status: Iter 13, Sample 25000
+Level 1 avg loss 0.189634
+Level 2 avg loss 0.105315
+Training status: Iter 14, Sample 5000
+Level 1 avg loss 0.156041
+Level 2 avg loss 0.092616
+Training status: Iter 14, Sample 10000
+Level 1 avg loss 0.154741
+Level 2 avg loss 0.093562
+Test status Level 1: Iter 14
+Accuracy Level 1: 0.808603
+Accuracy Level 2: 0.844573
+Training status: Iter 14, Sample 15000
+Level 1 avg loss 0.159180
+Level 2 avg loss 0.096806
+Training status: Iter 14, Sample 20000
+Level 1 avg loss 0.164311
+Level 2 avg loss 0.104200
+Test status Level 1: Iter 14
+Accuracy Level 1: 0.831340
+Accuracy Level 2: 0.845698
+Training status: Iter 14, Sample 25000
+Level 1 avg loss 0.171470
+Level 2 avg loss 0.103341
+Training status: Iter 15, Sample 5000
+Level 1 avg loss 0.140850
+Level 2 avg loss 0.084586
+Training status: Iter 15, Sample 10000
+Level 1 avg loss 0.149725
+Level 2 avg loss 0.086111
+Test status Level 1: Iter 15
+Accuracy Level 1: 0.815620
+Accuracy Level 2: 0.843892
+Training status: Iter 15, Sample 15000
+Level 1 avg loss 0.151500
+Level 2 avg loss 0.090615
+Training status: Iter 15, Sample 20000
+Level 1 avg loss 0.153512
+Level 2 avg loss 0.094521
+Test status Level 1: Iter 15
+Accuracy Level 1: 0.828231
+Accuracy Level 2: 0.849665
+Training status: Iter 15, Sample 25000
+Level 1 avg loss 0.166113
+Level 2 avg loss 0.095088
+Training status: Iter 16, Sample 5000
+Level 1 avg loss 0.127917
+Level 2 avg loss 0.083600
+Training status: Iter 16, Sample 10000
+Level 1 avg loss 0.132162
+Level 2 avg loss 0.082328
+Test status Level 1: Iter 16
+Accuracy Level 1: 0.819231
+Accuracy Level 2: 0.845225
+Training status: Iter 16, Sample 15000
+Level 1 avg loss 0.139690
+Level 2 avg loss 0.079775
+Training status: Iter 16, Sample 20000
+Level 1 avg loss 0.146424
+Level 2 avg loss 0.082477
+Test status Level 1: Iter 16
+Accuracy Level 1: 0.819409
+Accuracy Level 2: 0.838475
+Training status: Iter 16, Sample 25000
+Level 1 avg loss 0.143680
+Level 2 avg loss 0.087446
+Training status: Iter 17, Sample 5000
+Level 1 avg loss 0.120846
+Level 2 avg loss 0.072978
+Training status: Iter 17, Sample 10000
+Level 1 avg loss 0.124537
+Level 2 avg loss 0.075239
+Test status Level 1: Iter 17
+Accuracy Level 1: 0.813784
+Accuracy Level 2: 0.842886
+Training status: Iter 17, Sample 15000
+Level 1 avg loss 0.132243
+Level 2 avg loss 0.077736
+Training status: Iter 17, Sample 20000
+Level 1 avg loss 0.127196
+Level 2 avg loss 0.079736
+Test status Level 1: Iter 17
+Accuracy Level 1: 0.825449
+Accuracy Level 2: 0.849902
+Training status: Iter 17, Sample 25000
+Level 1 avg loss 0.137703
+Level 2 avg loss 0.084534
+Training status: Iter 18, Sample 5000
+Level 1 avg loss 0.115426
+Level 2 avg loss 0.073762
+Training status: Iter 18, Sample 10000
+Level 1 avg loss 0.116668
+Level 2 avg loss 0.070192
+Test status Level 1: Iter 18
+Accuracy Level 1: 0.820801
+Accuracy Level 2: 0.847830
+Training status: Iter 18, Sample 15000
+Level 1 avg loss 0.119585
+Level 2 avg loss 0.071609
+Training status: Iter 18, Sample 20000
+Level 1 avg loss 0.122937
+Level 2 avg loss 0.070673
+Test status Level 1: Iter 18
+Accuracy Level 1: 0.819705
+Accuracy Level 2: 0.843212
+Training status: Iter 18, Sample 25000
+Level 1 avg loss 0.125239
+Level 2 avg loss 0.076851
+Training status: Iter 19, Sample 5000
+Level 1 avg loss 0.107755
+Level 2 avg loss 0.064417
+Training status: Iter 19, Sample 10000
+Level 1 avg loss 0.106577
+Level 2 avg loss 0.064418
+Test status Level 1: Iter 19
+Accuracy Level 1: 0.825478
+Accuracy Level 2: 0.851590
+Training status: Iter 19, Sample 15000
+Level 1 avg loss 0.110028
+Level 2 avg loss 0.068154
+Training status: Iter 19, Sample 20000
+Level 1 avg loss 0.120202
+Level 2 avg loss 0.069785
+Test status Level 1: Iter 19
+Accuracy Level 1: 0.829682
+Accuracy Level 2: 0.851827
+Training status: Iter 19, Sample 25000
+Level 1 avg loss 0.115687
+Level 2 avg loss 0.071218
+Training status: Iter 20, Sample 5000
+Level 1 avg loss 0.101811
+Level 2 avg loss 0.063955
+Training status: Iter 20, Sample 10000
+Level 1 avg loss 0.102842
+Level 2 avg loss 0.062897
+Test status Level 1: Iter 20
+Accuracy Level 1: 0.824472
+Accuracy Level 2: 0.843952
+Training status: Iter 20, Sample 15000
+Level 1 avg loss 0.104205
+Level 2 avg loss 0.064904
+Training status: Iter 20, Sample 20000
+Level 1 avg loss 0.107978
+Level 2 avg loss 0.063705
+Test status Level 1: Iter 20
+Accuracy Level 1: 0.815768
+Accuracy Level 2: 0.843093
+Training status: Iter 20, Sample 25000
+Level 1 avg loss 0.107944
+Level 2 avg loss 0.067967
+Training status: Iter 21, Sample 5000
+Level 1 avg loss 0.086886
+Level 2 avg loss 0.055540
+Training status: Iter 21, Sample 10000
+Level 1 avg loss 0.103569
+Level 2 avg loss 0.053324
+Test status Level 1: Iter 21
+Accuracy Level 1: 0.818018
+Accuracy Level 2: 0.844070
+Training status: Iter 21, Sample 15000
+Level 1 avg loss 0.098035
+Level 2 avg loss 0.063646
+Training status: Iter 21, Sample 20000
+Level 1 avg loss 0.092565
+Level 2 avg loss 0.060387
+Test status Level 1: Iter 21
+Accuracy Level 1: 0.824116
+Accuracy Level 2: 0.847445
+Training status: Iter 21, Sample 25000
+Level 1 avg loss 0.103681
+Level 2 avg loss 0.062518
+Training status: Iter 22, Sample 5000
+Level 1 avg loss 0.088083
+Level 2 avg loss 0.052511
+Training status: Iter 22, Sample 10000
+Level 1 avg loss 0.088361
+Level 2 avg loss 0.053410
+Test status Level 1: Iter 22
+Accuracy Level 1: 0.822518
+Accuracy Level 2: 0.846290
+Training status: Iter 22, Sample 15000
+Level 1 avg loss 0.088310
+Level 2 avg loss 0.055259
+Training status: Iter 22, Sample 20000
+Level 1 avg loss 0.095319
+Level 2 avg loss 0.054039
+Test status Level 1: Iter 22
+Accuracy Level 1: 0.824738
+Accuracy Level 2: 0.846942
+Training status: Iter 22, Sample 25000
+Level 1 avg loss 0.098709
+Level 2 avg loss 0.057686
+Training status: Iter 23, Sample 5000
+Level 1 avg loss 0.083951
+Level 2 avg loss 0.048245
+Training status: Iter 23, Sample 10000
+Level 1 avg loss 0.089287
+Level 2 avg loss 0.052042
+Test status Level 1: Iter 23
+Accuracy Level 1: 0.822754
+Accuracy Level 2: 0.843182
+Training status: Iter 23, Sample 15000
+Level 1 avg loss 0.092513
+Level 2 avg loss 0.054041
+Training status: Iter 23, Sample 20000
+Level 1 avg loss 0.086557
+Level 2 avg loss 0.052957
+Test status Level 1: Iter 23
+Accuracy Level 1: 0.825893
+Accuracy Level 2: 0.849369
+Training status: Iter 23, Sample 25000
+Level 1 avg loss 0.087278
+Level 2 avg loss 0.055938
+Training status: Iter 24, Sample 5000
+Level 1 avg loss 0.078930
+Level 2 avg loss 0.044777
+Training status: Iter 24, Sample 10000
+Level 1 avg loss 0.078677
+Level 2 avg loss 0.047039
+Test status Level 1: Iter 24
+Accuracy Level 1: 0.817396
+Accuracy Level 2: 0.843300
+Training status: Iter 24, Sample 15000
+Level 1 avg loss 0.079400
+Level 2 avg loss 0.051996
+Training status: Iter 24, Sample 20000
+Level 1 avg loss 0.082615
+Level 2 avg loss 0.052945
+Test status Level 1: Iter 24
+Accuracy Level 1: 0.808899
+Accuracy Level 2: 0.845343
+Training status: Iter 24, Sample 25000
+Level 1 avg loss 0.086998
+Level 2 avg loss 0.051945
+Training status: Iter 25, Sample 5000
+Level 1 avg loss 0.076484
+Level 2 avg loss 0.042703
+Training status: Iter 25, Sample 10000
+Level 1 avg loss 0.071374
+Level 2 avg loss 0.046680
+Test status Level 1: Iter 25
+Accuracy Level 1: 0.823495
+Accuracy Level 2: 0.846202
+Training status: Iter 25, Sample 15000
+Level 1 avg loss 0.075825
+Level 2 avg loss 0.043924
+Training status: Iter 25, Sample 20000
+Level 1 avg loss 0.076432
+Level 2 avg loss 0.049227
+Test status Level 1: Iter 25
+Accuracy Level 1: 0.826840
+Accuracy Level 2: 0.848067
+Training status: Iter 25, Sample 25000
+Level 1 avg loss 0.079204
+Level 2 avg loss 0.050659
+Training status: Iter 26, Sample 5000
+Level 1 avg loss 0.065724
+Level 2 avg loss 0.040512
+Training status: Iter 26, Sample 10000
+Level 1 avg loss 0.071169
+Level 2 avg loss 0.043011
+Test status Level 1: Iter 26
+Accuracy Level 1: 0.821481
+Accuracy Level 2: 0.844662
+Training status: Iter 26, Sample 15000
+Level 1 avg loss 0.073472
+Level 2 avg loss 0.045552
+Training status: Iter 26, Sample 20000
+Level 1 avg loss 0.071478
+Level 2 avg loss 0.044627
+Test status Level 1: Iter 26
+Accuracy Level 1: 0.818847
+Accuracy Level 2: 0.848718
+Training status: Iter 26, Sample 25000
+Level 1 avg loss 0.074945
+Level 2 avg loss 0.047407
+Training status: Iter 27, Sample 5000
+Level 1 avg loss 0.065999
+Level 2 avg loss 0.040214
+Training status: Iter 27, Sample 10000
+Level 1 avg loss 0.068118
+Level 2 avg loss 0.038392
+Test status Level 1: Iter 27
+Accuracy Level 1: 0.822429
+Accuracy Level 2: 0.849517
+Training status: Iter 27, Sample 15000
+Level 1 avg loss 0.067788
+Level 2 avg loss 0.041241
+Training status: Iter 27, Sample 20000
+Level 1 avg loss 0.071101
+Level 2 avg loss 0.041673
+Test status Level 1: Iter 27
+Accuracy Level 1: 0.825360
+Accuracy Level 2: 0.848896
+Training status: Iter 27, Sample 25000
+Level 1 avg loss 0.075555
+Level 2 avg loss 0.046961
+Training status: Iter 28, Sample 5000
+Level 1 avg loss 0.063312
+Level 2 avg loss 0.035599
+Training status: Iter 28, Sample 10000
+Level 1 avg loss 0.063517
+Level 2 avg loss 0.033534
+Test status Level 1: Iter 28
+Accuracy Level 1: 0.823435
+Accuracy Level 2: 0.850169
+Training status: Iter 28, Sample 15000
+Level 1 avg loss 0.066297
+Level 2 avg loss 0.038482
+Training status: Iter 28, Sample 20000
+Level 1 avg loss 0.064249
+Level 2 avg loss 0.039743
+Test status Level 1: Iter 28
+Accuracy Level 1: 0.820268
+Accuracy Level 2: 0.844129
+Training status: Iter 28, Sample 25000
+Level 1 avg loss 0.067913
+Level 2 avg loss 0.045664
+Training status: Iter 29, Sample 5000
+Level 1 avg loss 0.059969
+Level 2 avg loss 0.038818
+Training status: Iter 29, Sample 10000
+Level 1 avg loss 0.057659
+Level 2 avg loss 0.036374
+Test status Level 1: Iter 29
+Accuracy Level 1: 0.814702
+Accuracy Level 2: 0.846794
+Training status: Iter 29, Sample 15000
+Level 1 avg loss 0.062744
+Level 2 avg loss 0.038519
+Training status: Iter 29, Sample 20000
+Level 1 avg loss 0.058371
+Level 2 avg loss 0.037507
+Test status Level 1: Iter 29
+Accuracy Level 1: 0.816212
+Accuracy Level 2: 0.847119
+Training status: Iter 29, Sample 25000
+Level 1 avg loss 0.068790
+Level 2 avg loss 0.037563
+Training status: Iter 30, Sample 5000
+Level 1 avg loss 0.054637
+Level 2 avg loss 0.035178
+Training status: Iter 30, Sample 10000
+Level 1 avg loss 0.058539
+Level 2 avg loss 0.032224
+Test status Level 1: Iter 30
+Accuracy Level 1: 0.816922
+Accuracy Level 2: 0.842471
+Training status: Iter 30, Sample 15000
+Level 1 avg loss 0.061572
+Level 2 avg loss 0.040500
+Training status: Iter 30, Sample 20000
+Level 1 avg loss 0.060095
+Level 2 avg loss 0.033940
+Test status Level 1: Iter 30
+Accuracy Level 1: 0.818403
+Accuracy Level 2: 0.842886
+Training status: Iter 30, Sample 25000
+Level 1 avg loss 0.062192
+Level 2 avg loss 0.037305
+Training status: Iter 31, Sample 5000
+Level 1 avg loss 0.051230
+Level 2 avg loss 0.030712
+Training status: Iter 31, Sample 10000
+Level 1 avg loss 0.050956
+Level 2 avg loss 0.032138
+Test status Level 1: Iter 31
+Accuracy Level 1: 0.826041
+Accuracy Level 2: 0.849458
+Training status: Iter 31, Sample 15000
+Level 1 avg loss 0.054999
+Level 2 avg loss 0.033625
+Training status: Iter 31, Sample 20000
+Level 1 avg loss 0.056483
+Level 2 avg loss 0.033015
+Test status Level 1: Iter 31
+Accuracy Level 1: 0.827787
+Accuracy Level 2: 0.850761
+Training status: Iter 31, Sample 25000
+Level 1 avg loss 0.057828
+Level 2 avg loss 0.037048
+Training status: Iter 32, Sample 5000
+Level 1 avg loss 0.050172
+Level 2 avg loss 0.031663
+Training status: Iter 32, Sample 10000
+Level 1 avg loss 0.051559
+Level 2 avg loss 0.030795
+Test status Level 1: Iter 32
+Accuracy Level 1: 0.826958
+Accuracy Level 2: 0.849162
+Training status: Iter 32, Sample 15000
+Level 1 avg loss 0.051424
+Level 2 avg loss 0.031276
+Training status: Iter 32, Sample 20000
+Level 1 avg loss 0.054396
+Level 2 avg loss 0.030003
+Test status Level 1: Iter 32
+Accuracy Level 1: 0.821541
+Accuracy Level 2: 0.847001
+Training status: Iter 32, Sample 25000
+Level 1 avg loss 0.055191
+Level 2 avg loss 0.033440
+Training status: Iter 33, Sample 5000
+Level 1 avg loss 0.047698
+Level 2 avg loss 0.032120
+Training status: Iter 33, Sample 10000
+Level 1 avg loss 0.052368
+Level 2 avg loss 0.031862
+Test status Level 1: Iter 33
+Accuracy Level 1: 0.820623
+Accuracy Level 2: 0.846202
+Training status: Iter 33, Sample 15000
+Level 1 avg loss 0.049714
+Level 2 avg loss 0.029294
+Training status: Iter 33, Sample 20000
+Level 1 avg loss 0.050930
+Level 2 avg loss 0.029771
+Test status Level 1: Iter 33
+Accuracy Level 1: 0.821629
+Accuracy Level 2: 0.848067
+Training status: Iter 33, Sample 25000
+Level 1 avg loss 0.052363
+Level 2 avg loss 0.032025
+Training status: Iter 34, Sample 5000
+Level 1 avg loss 0.045623
+Level 2 avg loss 0.026030
+Training status: Iter 34, Sample 10000
+Level 1 avg loss 0.046628
+Level 2 avg loss 0.028637
+Test status Level 1: Iter 34
+Accuracy Level 1: 0.818935
+Accuracy Level 2: 0.843330
+Training status: Iter 34, Sample 15000
+Level 1 avg loss 0.047021
+Level 2 avg loss 0.028087
+Training status: Iter 34, Sample 20000
+Level 1 avg loss 0.050032
+Level 2 avg loss 0.031262
+Test status Level 1: Iter 34
+Accuracy Level 1: 0.814761
+Accuracy Level 2: 0.842087
+Training status: Iter 34, Sample 25000
+Level 1 avg loss 0.050905
+Level 2 avg loss 0.032045
+Training status: Iter 35, Sample 5000
+Level 1 avg loss 0.046826
+Level 2 avg loss 0.028781
+Training status: Iter 35, Sample 10000
+Level 1 avg loss 0.041211
+Level 2 avg loss 0.024268
+Test status Level 1: Iter 35
+Accuracy Level 1: 0.820741
+Accuracy Level 2: 0.844958
+Training status: Iter 35, Sample 15000
+Level 1 avg loss 0.042925
+Level 2 avg loss 0.024056
+Training status: Iter 35, Sample 20000
+Level 1 avg loss 0.048448
+Level 2 avg loss 0.031824
+Test status Level 1: Iter 35
+Accuracy Level 1: 0.827225
+Accuracy Level 2: 0.845935
+Training status: Iter 35, Sample 25000
+Level 1 avg loss 0.049489
+Level 2 avg loss 0.026547
+Training status: Iter 36, Sample 5000
+Level 1 avg loss 0.040275
+Level 2 avg loss 0.026422
+Training status: Iter 36, Sample 10000
+Level 1 avg loss 0.042765
+Level 2 avg loss 0.024108
+Test status Level 1: Iter 36
+Accuracy Level 1: 0.820179
+Accuracy Level 2: 0.841228
+Training status: Iter 36, Sample 15000
+Level 1 avg loss 0.048885
+Level 2 avg loss 0.026103
+Training status: Iter 36, Sample 20000
+Level 1 avg loss 0.047965
+Level 2 avg loss 0.027296
+Test status Level 1: Iter 36
+Accuracy Level 1: 0.823850
+Accuracy Level 2: 0.847741
+Training status: Iter 36, Sample 25000
+Level 1 avg loss 0.044759
+Level 2 avg loss 0.026379
+Training status: Iter 37, Sample 5000
+Level 1 avg loss 0.041978
+Level 2 avg loss 0.023832
+Training status: Iter 37, Sample 10000
+Level 1 avg loss 0.043444
+Level 2 avg loss 0.025449
+Test status Level 1: Iter 37
+Accuracy Level 1: 0.814347
+Accuracy Level 2: 0.842856
+Training status: Iter 37, Sample 15000
+Level 1 avg loss 0.043356
+Level 2 avg loss 0.025093
+Training status: Iter 37, Sample 20000
+Level 1 avg loss 0.041207
+Level 2 avg loss 0.024517
+Test status Level 1: Iter 37
+Accuracy Level 1: 0.823731
+Accuracy Level 2: 0.847445
+Training status: Iter 37, Sample 25000
+Level 1 avg loss 0.043450
+Level 2 avg loss 0.028362
+Training status: Iter 38, Sample 5000
+Level 1 avg loss 0.037719
+Level 2 avg loss 0.022127
+Training status: Iter 38, Sample 10000
+Level 1 avg loss 0.039890
+Level 2 avg loss 0.022059
+Test status Level 1: Iter 38
+Accuracy Level 1: 0.820327
+Accuracy Level 2: 0.845906
+Training status: Iter 38, Sample 15000
+Level 1 avg loss 0.045134
+Level 2 avg loss 0.024808
+Training status: Iter 38, Sample 20000
+Level 1 avg loss 0.045051
+Level 2 avg loss 0.027343
+Test status Level 1: Iter 38
+Accuracy Level 1: 0.817781
+Accuracy Level 2: 0.844840
+Training status: Iter 38, Sample 25000
+Level 1 avg loss 0.042478
+Level 2 avg loss 0.024094
+Training status: Iter 39, Sample 5000
+Level 1 avg loss 0.036434
+Level 2 avg loss 0.023270
+Training status: Iter 39, Sample 10000
+Level 1 avg loss 0.037586
+Level 2 avg loss 0.024266
+Test status Level 1: Iter 39
+Accuracy Level 1: 0.821245
+Accuracy Level 2: 0.846794
+Training status: Iter 39, Sample 15000
+Level 1 avg loss 0.037577
+Level 2 avg loss 0.021260
+Training status: Iter 39, Sample 20000
+Level 1 avg loss 0.040605
+Level 2 avg loss 0.023378
+Test status Level 1: Iter 39
+Accuracy Level 1: 0.818432
+Accuracy Level 2: 0.847179
+Training status: Iter 39, Sample 25000
+Level 1 avg loss 0.043225
+Level 2 avg loss 0.024983
+Training status: Iter 40, Sample 5000
+Level 1 avg loss 0.032554
+Level 2 avg loss 0.019149
+Training status: Iter 40, Sample 10000
+Level 1 avg loss 0.036680
+Level 2 avg loss 0.024436
+Test status Level 1: Iter 40
+Accuracy Level 1: 0.824916
+Accuracy Level 2: 0.847534
+Training status: Iter 40, Sample 15000
+Level 1 avg loss 0.037826
+Level 2 avg loss 0.020129
+Training status: Iter 40, Sample 20000
+Level 1 avg loss 0.037733
+Level 2 avg loss 0.022537
+Test status Level 1: Iter 40
+Accuracy Level 1: 0.818373
+Accuracy Level 2: 0.847504
+Training status: Iter 40, Sample 25000
+Level 1 avg loss 0.043085
+Level 2 avg loss 0.023331
+Training status: Iter 41, Sample 5000
+Level 1 avg loss 0.033681
+Level 2 avg loss 0.021812
+Training status: Iter 41, Sample 10000
+Level 1 avg loss 0.036762
+Level 2 avg loss 0.019243
+Test status Level 1: Iter 41
+Accuracy Level 1: 0.821422
+Accuracy Level 2: 0.845906
+Training status: Iter 41, Sample 15000
+Level 1 avg loss 0.037551
+Level 2 avg loss 0.021184
+Training status: Iter 41, Sample 20000
+Level 1 avg loss 0.037031
+Level 2 avg loss 0.019513
+Test status Level 1: Iter 41
+Accuracy Level 1: 0.819587
+Accuracy Level 2: 0.843152
+Training status: Iter 41, Sample 25000
+Level 1 avg loss 0.039102
+Level 2 avg loss 0.020556
+Training status: Iter 42, Sample 5000
+Level 1 avg loss 0.033862
+Level 2 avg loss 0.017629
+Training status: Iter 42, Sample 10000
+Level 1 avg loss 0.034499
+Level 2 avg loss 0.018790
+Test status Level 1: Iter 42
+Accuracy Level 1: 0.816952
+Accuracy Level 2: 0.842649
+Training status: Iter 42, Sample 15000
+Level 1 avg loss 0.033410
+Level 2 avg loss 0.019594
+Training status: Iter 42, Sample 20000
+Level 1 avg loss 0.030475
+Level 2 avg loss 0.019760
+Test status Level 1: Iter 42
+Accuracy Level 1: 0.817810
+Accuracy Level 2: 0.842412
+Training status: Iter 42, Sample 25000
+Level 1 avg loss 0.034836
+Level 2 avg loss 0.022902
+Training status: Iter 43, Sample 5000
+Level 1 avg loss 0.029582
+Level 2 avg loss 0.020016
+Training status: Iter 43, Sample 10000
+Level 1 avg loss 0.029471
+Level 2 avg loss 0.018602
+Test status Level 1: Iter 43
+Accuracy Level 1: 0.821156
+Accuracy Level 2: 0.847179
+Training status: Iter 43, Sample 15000
+Level 1 avg loss 0.030713
+Level 2 avg loss 0.017993
+Training status: Iter 43, Sample 20000
+Level 1 avg loss 0.035776
+Level 2 avg loss 0.018404
+Test status Level 1: Iter 43
+Accuracy Level 1: 0.817278
+Accuracy Level 2: 0.846231
+Training status: Iter 43, Sample 25000
+Level 1 avg loss 0.031676
+Level 2 avg loss 0.019822
+Training status: Iter 44, Sample 5000
+Level 1 avg loss 0.033281
+Level 2 avg loss 0.017674
+Training status: Iter 44, Sample 10000
+Level 1 avg loss 0.028577
+Level 2 avg loss 0.019745
+Test status Level 1: Iter 44
+Accuracy Level 1: 0.823702
+Accuracy Level 2: 0.849073
+Training status: Iter 44, Sample 15000
+Level 1 avg loss 0.029756
+Level 2 avg loss 0.016741
+Training status: Iter 44, Sample 20000
+Level 1 avg loss 0.030304
+Level 2 avg loss 0.017858
+Test status Level 1: Iter 44
+Accuracy Level 1: 0.820741
+Accuracy Level 2: 0.844633
+Training status: Iter 44, Sample 25000
+Level 1 avg loss 0.037482
+Level 2 avg loss 0.018630
+Training status: Iter 45, Sample 5000
+Level 1 avg loss 0.032238
+Level 2 avg loss 0.016494
+Training status: Iter 45, Sample 10000
+Level 1 avg loss 0.028141
+Level 2 avg loss 0.017271
+Test status Level 1: Iter 45
+Accuracy Level 1: 0.816271
+Accuracy Level 2: 0.842235
+Training status: Iter 45, Sample 15000
+Level 1 avg loss 0.029395
+Level 2 avg loss 0.017363
+Training status: Iter 45, Sample 20000
+Level 1 avg loss 0.031249
+Level 2 avg loss 0.016924
+Test status Level 1: Iter 45
+Accuracy Level 1: 0.815028
+Accuracy Level 2: 0.844958
+Training status: Iter 45, Sample 25000
+Level 1 avg loss 0.031648
+Level 2 avg loss 0.017687
+Training status: Iter 46, Sample 5000
+Level 1 avg loss 0.028576
+Level 2 avg loss 0.015455
+Training status: Iter 46, Sample 10000
+Level 1 avg loss 0.025322
+Level 2 avg loss 0.015336
+Test status Level 1: Iter 46
+Accuracy Level 1: 0.817011
+Accuracy Level 2: 0.842531
+Training status: Iter 46, Sample 15000
+Level 1 avg loss 0.030107
+Level 2 avg loss 0.018866
+Training status: Iter 46, Sample 20000
+Level 1 avg loss 0.027010
+Level 2 avg loss 0.016785
+Test status Level 1: Iter 46
+Accuracy Level 1: 0.819528
+Accuracy Level 2: 0.844544
+Training status: Iter 46, Sample 25000
+Level 1 avg loss 0.033151
+Level 2 avg loss 0.020543
+Training status: Iter 47, Sample 5000
+Level 1 avg loss 0.025945
+Level 2 avg loss 0.016204
+Training status: Iter 47, Sample 10000
+Level 1 avg loss 0.024081
+Level 2 avg loss 0.015453
+Test status Level 1: Iter 47
+Accuracy Level 1: 0.821511
+Accuracy Level 2: 0.849044
+Training status: Iter 47, Sample 15000
+Level 1 avg loss 0.028777
+Level 2 avg loss 0.016952
+Training status: Iter 47, Sample 20000
+Level 1 avg loss 0.031881
+Level 2 avg loss 0.014233
+Test status Level 1: Iter 47
+Accuracy Level 1: 0.819261
+Accuracy Level 2: 0.846172
+Training status: Iter 47, Sample 25000
+Level 1 avg loss 0.028240
+Level 2 avg loss 0.017455
+Training status: Iter 48, Sample 5000
+Level 1 avg loss 0.024235
+Level 2 avg loss 0.014345
+Training status: Iter 48, Sample 10000
+Level 1 avg loss 0.026317
+Level 2 avg loss 0.013647
+Test status Level 1: Iter 48
+Accuracy Level 1: 0.816567
+Accuracy Level 2: 0.848244
+Training status: Iter 48, Sample 15000
+Level 1 avg loss 0.025698
+Level 2 avg loss 0.017767
+Training status: Iter 48, Sample 20000
+Level 1 avg loss 0.027146
+Level 2 avg loss 0.015403
+Test status Level 1: Iter 48
+Accuracy Level 1: 0.823435
+Accuracy Level 2: 0.846675
+Training status: Iter 48, Sample 25000
+Level 1 avg loss 0.029294
+Level 2 avg loss 0.016949
+Training status: Iter 49, Sample 5000
+Level 1 avg loss 0.025134
+Level 2 avg loss 0.014100
+Training status: Iter 49, Sample 10000
+Level 1 avg loss 0.027961
+Level 2 avg loss 0.014377
+Test status Level 1: Iter 49
+Accuracy Level 1: 0.822310
+Accuracy Level 2: 0.844366
+Training status: Iter 49, Sample 15000
+Level 1 avg loss 0.026814
+Level 2 avg loss 0.015801
+Training status: Iter 49, Sample 20000
+Level 1 avg loss 0.028450
+Level 2 avg loss 0.018789
+Test status Level 1: Iter 49
+Accuracy Level 1: 0.815620
+Accuracy Level 2: 0.844840
+Training status: Iter 49, Sample 25000
+Level 1 avg loss 0.027855
+Level 2 avg loss 0.015777

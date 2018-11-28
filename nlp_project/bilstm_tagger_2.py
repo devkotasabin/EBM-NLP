@@ -303,7 +303,7 @@ for ITER in range(NUM_ITERS):
                     words = [w for w,t,t2 in sent]
                     golds = [t for w,t,t2 in sent]
                     golds2 = [t2 for w,t,t2 in sent]
-                    for w, go, gu, go2, gu2 in zip(words, golds, tags, golds2, tag_lvl2):
+                    for w, go, gu, go2, gu2 in zip(words, golds, tags, golds2, tags_lvl2):
                         f.write('%s\t%s\t%s\t%s\t%s\n' %(w, go, gu, go2, gu2))
                         if go == gu: good +=1 
                         else: bad+=1
